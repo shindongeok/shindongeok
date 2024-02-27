@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ![css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 ![jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-
+<br>
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
@@ -32,14 +32,11 @@ Here are some ideas to get you started:
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 <br>
-<br>
-<br>
-
 
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shindongeok)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shindongeok&show_icons=true&bg_color=00000000)
-
 
 </div>
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
