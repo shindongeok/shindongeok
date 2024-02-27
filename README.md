@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 ![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
 
-
+<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shindongeok)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shindongeok&show_icons=true&bg_color=00000000)
