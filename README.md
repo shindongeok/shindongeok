@@ -1,5 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header&text=shin%20dongeok" />
-
+![reversal](https://capsule-render.vercel.app/api?type=slice&reversal=true&color=gradient)
 
 <!--
 **shindongeok/shindongeok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
