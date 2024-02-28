@@ -17,6 +17,9 @@ Here are some ideas to get you started:
 -->
 <div align="center">
 
+<h3 align="center">📚 Email 📚</h3>
+<p align="center">ehrflqakstp@gmail.com</p>
+
 <h3 align="center">📚 Tech Stack 📚</h3>
 <br>
 
